@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr_FR"><generator uri="https://jekyllrb.com/" version="3.3.1">Jekyll</generator><link href="http://pcu-consortium.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://pcu-consortium.github.io/" rel="alternate" type="text/html" hreflang="fr_FR" /><updated>2017-10-12T18:27:38+02:00</updated><id>http://pcu-consortium.github.io/</id><title type="html">PCU</title><subtitle>Unified Knowledge Platform
+</subtitle><author><name>PCU Consortium</name></author><entry><title type="html">Simple Spark-based indexing and more PCU progress at Paris’ Open Source innovation cluster</title><link href="http://pcu-consortium.github.io/news/2017/PCU-progress-at-GTLL/" rel="alternate" type="text/html" title="Simple Spark-based indexing and more PCU progress at Paris' Open Source innovation cluster" /><published>2017-10-11T16:00:00+02:00</published><updated>2017-10-11T16:00:00+02:00</updated><id>http://pcu-consortium.github.io/news/2017/PCU-progress-at-GTLL</id><content type="html" xml:base="http://pcu-consortium.github.io/news/2017/PCU-progress-at-GTLL/">&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Last Wednesday&amp;#8217;s &lt;a href=&quot;https://systematic-paris-region.org/evenements/pleniere-gt-logiciel-libre/&quot;&gt;plenary meeting of the Open Source Paris innovation cluster&lt;/a&gt; (System@tic GTLL) wasn&amp;#8217;t like any other.
+Indeed, this was it&amp;#8217;s 10th birthday. How can I say it ? It was like having its cake and eating it - literally, and a very good chocolate cake at that.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;There I had the pleasure of giving a quick report on the PCU project&amp;#8217;s progress in its first year. This was the opportunity to unveil its new tagline : &lt;strong&gt;Unified, search-first Machine Learning platform targeted at business applications&lt;/strong&gt;. That&amp;#8217;s the vision of PCU : bring your app and we&amp;#8217;ll make it smart. And starting with smart search - we think almost every app can get benefits out of smart search.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;I also couldn&amp;#8217;t resist hinting at its &lt;a href=&quot;https://github.com/pcu-consortium/poc-inAndOutSpark&quot;&gt;innovative YAML-configured ETL on Spark&lt;/a&gt;. More could be said about this : that it brings Spark&amp;#8217;s data transformation and modeling power to masses, that it also works in streaming mode (including &lt;a href=&quot;https://github.com/pcu-consortium/poc-inAndOutSpark/blob/master/src/main/java/streaming/EsForeachWriter.java&quot;&gt;directly to ElasticSearch&lt;/a&gt; - would that be a world first ?), that all that makes it very appropriate as PCU&amp;#8217;s data ingestion and indexing pipeline. But it&amp;#8217;s still a prototype, and there&amp;#8217;ll soon be better times and places to delve into it - hint, hint.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Anyway, the slides shown at the meeting have been uploaded to &lt;a href=&quot;https://www.slideshare.net/pcuconsortium&quot;&gt;Slideshare&lt;/a&gt;, here they are :&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;media slideshare&quot;&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/iSRQ7cYu9jW1Nb&quot; width=&quot;344&quot; height=&quot;292&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Obviously, the meeting didn&amp;#8217;t end there. As usual, there were plenty of mind-opening innovative ideas showcased. For instance, &lt;a href=&quot;https://github.com/Wolphin-project&quot;&gt;Wolphin&lt;/a&gt; lead by &lt;a href=&quot;https://twitter.com/jonascript&quot;&gt;Jonathan Rivalan&lt;/a&gt; of AlterWay, which aims to offer smart monitoring for Docker Swarm (would that make it &quot;swarmt&quot; ?!). Or Karima Rafes' Bordercloud clever use of Linked Data to &lt;a href=&quot;http://www.bordercloud.com/LinkedWikiPlatform.php&quot;&gt;organize the data scientist&amp;#8217;s work environement&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;And unsurprisingly, the final networking session confirmed that the people behind those ideas are necessarily very, very interesting. So, very happy to have met for the first time Laurent, Fabrice, Didier. And thanks for your nice feedback about PCU. Again, people, bring us your application, we&amp;#8217;ll make it smart !&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;/assets/images/posts/20171004_gtll_networking.jpg&quot; alt=&quot;Birthday cake time at GTLL&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Marc DUTOO</name></author><category term="event" /><summary type="html">Last Wednesday's plenary meeting of the Open Source Paris innovation cluster (System@tic GTLL) wasn't like any other. Indeed, this was it's 10th birthday.</summary></entry><entry><title type="html">Introduction to Logstash</title><link href="http://pcu-consortium.github.io/news/2017/Introduction-to-Logstash/" rel="alternate" type="text/html" title="Introduction to Logstash" /><published>2017-07-25T15:00:00+02:00</published><updated>2017-07-25T15:00:00+02:00</updated><id>http://pcu-consortium.github.io/news/2017/Introduction-to-Logstash</id><content type="html" xml:base="http://pcu-consortium.github.io/news/2017/Introduction-to-Logstash/">&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;logstash-presentation&quot;&gt;Logstash presentation&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.google.fr/search?client=ubuntu&amp;amp;channel=fs&amp;amp;q=doc+logstash&amp;amp;ie=utf-8&amp;amp;oe=utf-8&amp;amp;gfe_rd=cr&amp;amp;ei=2vt2WfCnOujUXq75raAP&quot;&gt;(Link to the official documentation)&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Logstash is a tool to fetch data from a source and send it to a destination while doing some transformation on it on the fly. It has been specially designed and used to send data to ElasticSearch.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;It is able to take multiple entries and output at a time and can make use of conditionals to treat data differently based on criteria and conditionals.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;It uses a configuration file in a slighty modified JSON (described below).&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;logstash-configuration&quot;&gt;Logstash configuration&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;The Logstash configuration is separated in 3 parts :&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Input&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Filter&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Output&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;admonitionblock note&quot;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td class=&quot;icon&quot;&gt;
+&lt;i class=&quot;fa icon-note&quot; title=&quot;Note&quot;&gt;&lt;/i&gt;
+&lt;/td&gt;
+&lt;td class=&quot;content&quot;&gt;
+Each part can be in a different file (in the same folder) and we only need to give the folder to Logstash (it will concatenate the different files).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;input&quot;&gt;Input&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;The different inputs are in the field &lt;code&gt;&lt;code&gt;input&lt;/code&gt;&lt;/code&gt; and you can put more than one in it.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;There is a list of different &lt;a href=&quot;https://www.elastic.co/guide/en/logstash/current/input-plugins.html&quot;&gt;input plugins&lt;/a&gt; and we will see a few of them here.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;admonitionblock note&quot;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td class=&quot;icon&quot;&gt;
+&lt;i class=&quot;fa icon-note&quot; title=&quot;Note&quot;&gt;&lt;/i&gt;
+&lt;/td&gt;
+&lt;td class=&quot;content&quot;&gt;
+A lot of fields are set by default and are fine like that for a simple utilisation. For more parameters do check the link above.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect3&quot;&gt;
+&lt;h4 id=&quot;read-a-file-on-a-local-file-system&quot;&gt;Read a file on a local file system&lt;/h4&gt;
+&lt;div class=&quot;listingblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;input {
+  file {
+    start_position =&amp;gt; &quot;beginning&quot;
+    sincedb_path =&amp;gt; &quot;/pathToSincedb/sincedb&quot;
+    path =&amp;gt; &quot;/pathToYourData/*&quot;
+  }
+}&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;underline&quot;&gt;What does it do ?&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;This will read all the files that are in the folder &lt;code&gt;&lt;code&gt;pathToYourData&lt;/code&gt;&lt;/code&gt; since the beginning of the file line by line.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;The &lt;code&gt;&lt;code&gt;sincedb_path &amp;#8658; &quot;/pathToSincedb/sincedb&quot;&lt;/code&gt;&lt;/code&gt; let you set the path of the sincedb file that save which file you have already read and to where. So if your file has been updated the modification are taken  into account by Logstash.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;admonitionblock warning&quot;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td class=&quot;icon&quot;&gt;
+&lt;i class=&quot;fa icon-warning&quot; title=&quot;Warning&quot;&gt;&lt;/i&gt;
+&lt;/td&gt;
+&lt;td class=&quot;content&quot;&gt;
+Logstash will ignore files that haven&amp;#8217;t been modified for more than 24 hours. A little &lt;code&gt;&lt;code&gt;touch myFile&lt;/code&gt;&lt;/code&gt; will resolve this problem
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect3&quot;&gt;
+&lt;h4 id=&quot;read-data-from-kafka&quot;&gt;Read data from Kafka&lt;/h4&gt;
+&lt;div class=&quot;listingblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;input {
+  kafka{
+    topic =&amp;gt; [&quot;myTopic1&quot;, &quot;myTopic2&quot;]
+    auto_offset_reset =&amp;gt; &quot;earliest&quot;
+    bootstrap_servers =&amp;gt; [&quot;localhost:9092&quot;, &quot;localhost:9093&quot;]
+  }
+}&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;underline&quot;&gt;What does it do ?&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;This configuration will make Logstash consume on the topics &lt;code&gt;&lt;code&gt;myTopic1&lt;/code&gt;&lt;/code&gt; and &lt;code&gt;&lt;code&gt;myTopic2&lt;/code&gt;&lt;/code&gt; from the last offset commited or the earliest message if there is no offest (with the field &lt;code&gt;&lt;code&gt;auto_offset_reset&lt;/code&gt;&lt;/code&gt;) on the IPs &lt;code&gt;&lt;code&gt;localhost:9092&lt;/code&gt;&lt;/code&gt; and &lt;code&gt;&lt;code&gt;localhost:9093&lt;/code&gt;&lt;/code&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect3&quot;&gt;
+&lt;h4 id=&quot;read-data-from-elasticsearch&quot;&gt;Read data from ElasticSearch&lt;/h4&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;It is particulary imporant to be able to read from ElasticSearch for reindexing or simply get the data to put it elsewhere.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;listingblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;input {
+  elasticsearch {
+    hosts =&amp;gt; [&quot;localhost&quot;]
+    index =&amp;gt; &quot;myIndex&quot;
+    query =&amp;gt; &quot;*&quot;
+  }
+}&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;underline&quot;&gt;What does it do ?&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;This is one of the simplest configuration that will take all the data from the &lt;code&gt;&lt;code&gt;myIndex&lt;/code&gt;&lt;/code&gt; mapping.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect3&quot;&gt;
+&lt;h4 id=&quot;read-data-from-filebeat&quot;&gt;Read data from Filebeat&lt;/h4&gt;
+&lt;div class=&quot;listingblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;input {
+  beats {
+    port =&amp;gt; &quot;5044&quot;
+  }
+}&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;underline&quot;&gt;What does it do ?&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;With this configuration, Logstash will listen to the port 5044 where Filebeat is supposed to send data.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect3&quot;&gt;
+&lt;h4 id=&quot;read-data-from-multiple-input&quot;&gt;Read data from multiple input&lt;/h4&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;If we want to have multiple output we only have to put them in the input field one after another.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;listingblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;input {
+  file {
+    start_position =&amp;gt; &quot;beginning&quot;
+    sincedb_path =&amp;gt; &quot;/pathToSincedb/sincedb&quot;
+    path =&amp;gt; &quot;/pathToYourData/*&quot;
+  }
+  kafka {
+    topic =&amp;gt; [&quot;myTopic1&quot;, &quot;myTopic2&quot;]
+    auto_offset_reset =&amp;gt; &quot;earliest&quot;
+    bootstrap_servers =&amp;gt; [&quot;localhost:9092&quot;, &quot;localhost:9093&quot;]
+  }
+  elasticsearch {
+    hosts =&amp;gt; [&quot;localhost&quot;]
+    index =&amp;gt; &quot;myIndex&quot;
+    query =&amp;gt; &quot;*&quot;
+  }
+  beats {
+    port =&amp;gt; &quot;5044&quot;
+  }
+}&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect3&quot;&gt;
+&lt;h4 id=&quot;determine-the-origin-of-data&quot;&gt;Determine the origin of data&lt;/h4&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;If you have multiple output you won&amp;#8217;t know in the filter and output where you data come from as you don&amp;#8217;t have a notion of pipeline in logstash. To keep this information you have to put a tag in the &lt;code&gt;&lt;code&gt;input&lt;/code&gt;&lt;/code&gt; like below.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;listingblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;input {
+  file {
+    tags =&amp;gt; &quot;FILE&quot;
+    start_position =&amp;gt; &quot;beginning&quot;
+    sincedb_path =&amp;gt; &quot;/pathToSincedb/sincedb&quot;
+    path =&amp;gt; &quot;/pathToYourData/*&quot;
+  }
+  kafka {
+    tags =&amp;gt; &quot;KAFKA&quot;
+    topic =&amp;gt; [&quot;myTopic1&quot;, &quot;myTopic2&quot;]
+    auto_offset_reset =&amp;gt; &quot;earliest&quot;
+    bootstrap_servers =&amp;gt; [&quot;localhost:9092&quot;, &quot;localhost:9093&quot;]
+  }
+}&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;With that, in the &lt;code&gt;&lt;code&gt;filter&lt;/code&gt;&lt;/code&gt; and &lt;code&gt;&lt;code&gt;output&lt;/code&gt;&lt;/code&gt; we will only have to test the tag and know where our data come from.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;filter&quot;&gt;Filter&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;WORK IN PROGRESS - COME BACK LATER FOR SOME MORE AMAZING CONTENT !&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><author><name>Thomas Estrabaud</name></author><category term="Filebeat" /><category term="Logstash" /><category term="ElasticSearch" /><category term="ELK" /><category term="data" /><category term="pipeline" /><summary type="html">Introduction to Logstash on how to get and send data</summary></entry><entry><title type="html">Introduction to Filebeat</title><link href="http://pcu-consortium.github.io/news/2017/Introduction-to-Filebeat/" rel="alternate" type="text/html" title="Introduction to Filebeat" /><published>2017-07-24T12:00:00+02:00</published><updated>2017-07-24T12:00:00+02:00</updated><id>http://pcu-consortium.github.io/news/2017/Introduction-to-Filebeat</id><content type="html" xml:base="http://pcu-consortium.github.io/news/2017/Introduction-to-Filebeat/">&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;introduction-to-filebeat&quot;&gt;Introduction to Filebeat&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.elastic.co/guide/en/beats/filebeat/current/configuring-howto-filebeat.html&quot;&gt;Official Filebeat doc link&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Filebeat is a very light tool to fetch data from a filesystem to send it to other tools like logstash, elastic, kafka or redis.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Note :&lt;/strong&gt; Filebeat is the only tool from elastic to have his configuration in yml, the other are using JSON.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Filebeat use a system of prospectors to be able to have different configurations in the same instance.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;So first we define the field filebeat.prospectors which is a list in yml so :&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;listingblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;filebeat.prospectors:
+   -
+   -
+  [...]&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;We have two options to read data. You can either read from the console of from files with&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;listingblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;input_type: log
+paths:
+  - /pathToData/*.log
+  - /pathToData2/*.txt&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;You can send this data to one or multiple output like these (a lot of the settings are by default)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Logstash:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;listingblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;output.logstash:
+   hosts: [&quot;localhost:5043&quot;]&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ElasticSearch&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;listingblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;output.elasticsearch:
+  hosts: [&quot;localhost:9200&quot;]&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;So for a really simple configuration file who will read only one file and sent it only to logstash we can have :&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;listingblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;filebeat.prospectors:
+   - input_type: log
+     paths:
+        - /pathToData/*.log
+output.logstash:
+   hosts: [&quot;localhost:5043&quot;]&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Note :&lt;/strong&gt; There is a lot of default configuration that can be seen in the file &lt;code&gt;&lt;code&gt;filebeat.full.yml&lt;/code&gt;&lt;/code&gt; and overwrited in you own configuration files.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><author><name>Thomas Estrabaud</name></author><category term="Filebeat" /><category term="Logstash" /><category term="ElasticSearch" /><category term="ELK" /><category term="data" /><category term="pipeline" /><summary type="html">Introduction to Filebeat on how to send data</summary></entry><entry><title type="html">PCU@RISE 2017 A thesaurus for ecommerce search</title><link href="http://pcu-consortium.github.io/news/2017/PCU-RISE-2017-slides/" rel="alternate" type="text/html" title="PCU@RISE 2017 A thesaurus for ecommerce search" /><published>2017-07-07T16:00:00+02:00</published><updated>2017-07-07T16:00:00+02:00</updated><id>http://pcu-consortium.github.io/news/2017/PCU-RISE-2017-slides</id><content type="html" xml:base="http://pcu-consortium.github.io/news/2017/PCU-RISE-2017-slides/">&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Slides of the &quot;Building a thesaurus for product search in ecommerce&quot; given at the &lt;a href=&quot;https://sites.google.com/site/frenchsemanticir/home/rise_2017&quot;&gt;RISE 2017&lt;/a&gt; conference in Caen
+have been uploaded to &lt;a href=&quot;https://www.slideshare.net/pcuconsortium&quot;&gt;Slideshare&lt;/a&gt;:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;media slideshare&quot;&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/wZaAMCx8GdpMMs&quot; width=&quot;344&quot; height=&quot;292&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Check it out to find out about how &lt;a href=&quot;http://www.smile.fr&quot;&gt;Smile&lt;/a&gt; dreams up a &lt;strong&gt;Machine Learning-enabled future
+for ecommerce&lt;/strong&gt; and its Magento Elastic Suite searchandising solution.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class='jekyll-twitter-plugin'&gt;&lt;blockquote class=&quot;twitter-tweet&quot; data-width=&quot;300&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/GroupeSmile?ref_src=twsrc%5Etfw&quot;&gt;@GroupeSmile&lt;/a&gt; dreams up a &lt;a href=&quot;https://twitter.com/hashtag/MachineLearning?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#MachineLearning&lt;/a&gt; future for ecommerce and &lt;a href=&quot;https://twitter.com/hashtag/Magento?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#Magento&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/Elastic?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#Elastic&lt;/a&gt; at &lt;a href=&quot;https://twitter.com/hashtag/IC?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#IC&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/RISE?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#RISE&lt;/a&gt; &lt;a href=&quot;https://twitter.com/lab_smile?ref_src=twsrc%5Etfw&quot;&gt;@lab_smile&lt;/a&gt; &lt;a href=&quot;https://t.co/tBhzLRPdv9&quot;&gt;https://t.co/tBhzLRPdv9&lt;/a&gt; &lt;a href=&quot;https://t.co/a6eU0hyUlb&quot;&gt;pic.twitter.com/a6eU0hyUlb&lt;/a&gt;&lt;/p&gt;&amp;mdash; Marc Dutoo (@marcdutoo) &lt;a href=&quot;https://twitter.com/marcdutoo/status/883272621021966336?ref_src=twsrc%5Etfw&quot;&gt;July 7, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Congratulations&lt;/strong&gt; to PCU partner &lt;a href=&quot;http://lipn.univ-paris13.fr/en/&quot;&gt;LIPN&lt;/a&gt;'s Haïfa Zargayouna for having put together
+once again one of the leading research events about semantic search ! And a very good opportunity to organize collaboration
+in the PCU project with colleague Guillaume Santini and ESILV&amp;#8217;s Fatma Chamekh.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class='jekyll-twitter-plugin'&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/PCUConsortium?ref_src=twsrc%5Etfw&quot;&gt;@PCUConsortium&lt;/a&gt; meeting is in &lt;a href=&quot;https://twitter.com/hashtag/IC?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#IC&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/RISE?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#RISE&lt;/a&gt;. Guys!!! 🤣🤣 &lt;a href=&quot;https://t.co/Uj72V6p5Ij&quot;&gt;pic.twitter.com/Uj72V6p5Ij&lt;/a&gt;&lt;/p&gt;&amp;mdash; PCU Consortium (@PCUConsortium) &lt;a href=&quot;https://twitter.com/PCUConsortium/status/882934039895846914?ref_src=twsrc%5Etfw&quot;&gt;July 6, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;</content><author><name>Marc DUTOO</name></author><category term="event" /><summary type="html">Slides of the &quot;Building a thesaurus for product search in ecommerce&quot; at RISE 2017 conference in Caen are available</summary></entry><entry><title type="html">Welcome on PCU!</title><link href="http://pcu-consortium.github.io/news/2017/welcome-on-PCU/" rel="alternate" type="text/html" title="Welcome on PCU!" /><published>2017-05-16T21:00:00+02:00</published><updated>2017-05-16T21:00:00+02:00</updated><id>http://pcu-consortium.github.io/news/2017/welcome-on-PCU</id><content type="html" xml:base="http://pcu-consortium.github.io/news/2017/welcome-on-PCU/">&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Welcome on PCU website, it&amp;#8217;s the first post of a long serie.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Gregory EVE</name></author><summary type="html">Welcome on PCU website, it&amp;#8217;s the first post of a long serie.</summary></entry></feed>
